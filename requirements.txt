@@ -35,7 +35,7 @@ numpy==1.26.4
 packaging==24.0
 pandas==2.3.3
 pathspec==0.12.1
-pillow==10.3.0
+pillow
 protobuf==6.33.2
 pyarrow==22.0.0
 pydantic==2.12.5
